@@ -428,3 +428,9 @@ C:\Umbrella-Corp-Automação\PlaywrightTests\obj\Debug\net9.0\refint\PlaywrightT
 C:\Umbrella-Corp-Automação\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.pdb
 C:\Umbrella-Corp-Automação\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.genruntimeconfig.cache
 C:\Umbrella-Corp-Automação\PlaywrightTests\obj\Debug\net9.0\ref\PlaywrightTests.dll
+C:\Umbrella-Corp-Automação\PlaywrightTests\obj\Debug\net9.0\PlaywrightTests.sourcelink.json
+C:\Umbrella-Corp-Automação\PlaywrightTests\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+C:\Umbrella-Corp-Automação\PlaywrightTests\bin\Debug\net9.0\MailKit.dll
+C:\Umbrella-Corp-Automação\PlaywrightTests\bin\Debug\net9.0\MimeKit.dll
+C:\Umbrella-Corp-Automação\PlaywrightTests\bin\Debug\net9.0\System.Security.Cryptography.Pkcs.dll
+C:\Umbrella-Corp-Automação\PlaywrightTests\bin\Debug\net9.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
